@@ -1,14 +1,13 @@
 body{
-    background-color:rgb(255, 255, 255);
-    line-height: 1.5;
-    font-family: sans-serif;
-    text-align: justify;
+    background-color: rgb(138, 138, 138);
+    line-height : 1.5;
+    font-family : sans-serif;
+    text-align : justify;
     margin: 2em;
     padding:
-    border: solid 1px;
+    border: solid 1px;        
 }
 
 h2{
-    text-align: center;
-    color: blue;
+    text-align : center;
 }
