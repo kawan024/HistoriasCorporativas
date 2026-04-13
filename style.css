@@ -4,10 +4,11 @@ body{
     font-family : sans-serif;
     text-align : justify;
     margin: 2em;
-    padding:
-    border: solid 1px;        
+    padding: 0;
+    border: solid 1px black;        
 }
 
 h2{
     text-align : center;
+    color: rgb(23, 42, 23);
 }
