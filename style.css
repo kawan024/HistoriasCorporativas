@@ -8,7 +8,12 @@ body{
     border: solid 1px black;        
 }
 
+h1{
+    text-align: center;
+    font-size: 22px;
+}
+
 h2{
-    text-align : center;
+    text-align : left;
     color: rgb(23, 42, 23);
 }
